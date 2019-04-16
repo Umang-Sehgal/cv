@@ -1,0 +1,25 @@
+ body
+        {
+            background-color: rgb(194, 224, 245);
+        }   
+hr 
+    {
+        border-style: dotted none none;
+        width: 5%;
+        border-color: rgb(196, 195, 195);
+        border-width: 10px; 
+    } 
+h1 
+    {
+        color: rgb(70, 92, 192);
+        text-decoration: underline overline black;
+    }
+h3
+    {
+        color: rgb(191, 135, 102);
+        text-decoration: underline wavy white;
+    }    
+
+.my_img{
+        border-radius: 100%;
+}    
